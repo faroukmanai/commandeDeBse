@@ -1,0 +1,11 @@
+On branch main
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_exercice1.log
+
+nothing added to commit but untracked files present (use "git add" to track)
+commit 774e8525d8c40a4e3f67510f49a5d4bee54b3c32
+Author: faroukmanai <79013591+faroukmanai@users.noreply.github.com>
+Date:   Mon May 22 14:47:03 2023 -0400
+
+    Creation des 3 fichiers
